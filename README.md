@@ -171,3 +171,4 @@ No third-party binaries, game assets, or mods are bundled here. Obtain loaders a
 - [Palworld-WorldSaveSentinel](../Palworld-WorldSaveSentinel) — Palworld `Level.sav` backup & UE4SS / `~mods` check
 
 *Independent community project. Not affiliated with S-GAME, Valve, Steam, or Nexus Mods. All product names and trademarks belong to their respective owners.*
+ 
